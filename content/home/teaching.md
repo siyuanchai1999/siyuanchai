@@ -15,10 +15,10 @@ weight = 80
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-#### CS 336: Design & Analysis of Algorithms @ Northwestern
+#### CS 336 Design & Analysis of Algorithms @ Northwestern
 _peer mentor_, with Professor [Konstantin Makarychev](https://konstantin.makarychev.net/) (Winter 2020) <br>
 _peer mentor_, with Professor [Jason Hartline](https://sites.northwestern.edu/hartline/) (Fall 2019, Spring 2019)
 
-#### ESE 205: Introduction to Engineering Design @ WashU
+#### ESE 205 Introduction to Engineering Design @ WashU
 _Teaching Assistant_, with Professors [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html) (Spring 2018)
 
