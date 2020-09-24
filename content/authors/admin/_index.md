@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: BS in Computer Science, Electrical Engineering
-    institution: Northwestern
+    institution: Northwestern University
     year: 2021 (Expected)
   # - course: MEng in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
