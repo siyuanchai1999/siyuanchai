@@ -30,7 +30,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Radiological Society of North America"
-publication_short: ""
+publication_short: "RNSA"
 
 abstract: ""
 
