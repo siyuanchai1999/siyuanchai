@@ -16,7 +16,7 @@ authors: [Ramsey M Wehbe,
           Nishant Parekh,
           Aggelos K Katsaggelos
 ]
-date: 
+date: "Submitted in AUG 2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publishDate: submitted
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Radiological Society of North America"
@@ -34,8 +34,10 @@ publication_short: "RNSA"
 
 abstract: ""
 
+# DeepCOVID-XR is an artificial intelligence algorithm for detecting COVID-19 on chest X-rays,trainedandtested on the largest published clinical dataset in the COVID-19 era with performance similarto the consensus of experienced, cardiothoracic fellowship-trainedthoracic radiologists. We present DeepCOVID-XR, a deep learning AI algorithm for detecting CXRs suspicious for COVID-19, trained and tested on the largest published clinical dataset from the COVID-19 era to date. 
+
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists."
 
 tags: [COVID-19, Deep Learning, Chest-XR]
 categories: [AI in Medical Imaging]
