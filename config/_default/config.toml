@@ -10,7 +10,7 @@ title = "Siyuan Chai"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "siyuan.chai/"
+baseurl = "https://siyuan.chai/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
