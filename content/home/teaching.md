@@ -16,7 +16,7 @@ weight = 40
 
 +++
 #### CS 336: Design & Analysis of Algorithms @ Northwestern
-_peer mentor_, with Professor [Konstantin Makarychev](https://konstantin.makarychev.net/) (Winter 2020)
+_peer mentor_, with Professor [Konstantin Makarychev](https://konstantin.makarychev.net/) (Winter 2020) <br>
 _peer mentor_, with Professor [Jason Hartline](https://sites.northwestern.edu/hartline/) (Fall 2019, Spring 2019)
 
 #### ESE 205: Introduction to Engineering Design @ WashU
