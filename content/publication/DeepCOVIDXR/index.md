@@ -16,11 +16,11 @@ authors: [Ramsey M Wehbe,
           Nishant Parekh,
           Aggelos K Katsaggelos
 ]
-date: 2020-09-24T12:25:23-05:00
+date: 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-24T12:25:23-05:00
+publishDate: submitted
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,8 +37,8 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: [COVID-19, Deep Learning, Chest-XR]
+categories: [AI in Medical Imaging]
 featured: true
 
 # Custom links (optional).
