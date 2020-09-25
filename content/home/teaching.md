@@ -20,5 +20,5 @@ _peer mentor_, with Professor [Konstantin Makarychev](https://konstantin.makaryc
 _peer mentor_, with Professor [Jason Hartline](https://sites.northwestern.edu/hartline/) (Fall 2019, Spring 2019)
 
 #### ESE 205 Introduction to Engineering Design @ WashU
-_Teaching Assistant_, with Professors [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html) (Spring 2018)
+_Teaching Assistant_, with Professor [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html) (Spring 2018)
 
