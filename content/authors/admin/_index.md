@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my homepage! I am a senior student major in Computer Science and Electrical Engineering at [Northwestern University](https://www.northwestern.edu/). 
+Welcome to the homepage of Siyuan (柴思远)! I am a senior student major in Computer Science and Electrical Engineering at [Northwestern University](https://www.northwestern.edu/). 
 
 Right now, I am working closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focus on kernel-level development and operating system designs. I am also part of Image and Video Processing Lab ([IVPL](https://ivpl.northwestern.edu/)) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I worked on AI in Medical Imaging there. Before I transferred to Northwestern in 2018, I was in [Washington Univserity in St. Louis](https://wustl.edu/) where I worked with Prof. [Xuan Zhang](https://xzgroup.wustl.edu/people/xuan-silvia-zhang/) on autonomous driving simulation. 
