@@ -5,7 +5,7 @@ title: "DeepCOVID-XR: An Artificial Intelligence Algorithm to Detect COVID-19 on
 authors: [Ramsey M Wehbe,
           Jiayue Sheng,
           Shinjan Dutta,
-          Siyuan Chai,
+          admin,
           Amil Dravid,
           Semih Barutcu, 
           Yunan Wu, 
