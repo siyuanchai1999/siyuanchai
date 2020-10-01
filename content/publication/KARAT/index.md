@@ -1,20 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DeepCOVID-XR: An Artificial Intelligence Algorithm to Detect COVID-19 on Chest X-rays"
-authors: [Ramsey M Wehbe,
-          Jiayue Sheng,
-          Shinjan Dutta,
-          admin,
-          Amil Dravid,
-          Semih Barutcu, 
-          Yunan Wu, 
-          Donald R Cantrell,
-          Nicholas Xiao, 
-          Hatice Savas,
-          Rishi Agrawal,
-          Nishant Parekh,
-          Aggelos K Katsaggelos
+title: "KARAT: Kernel Implementation of Compiler- and Runtime-Based Address Translation"
+authors: [
+    Brian Suchy, 
+    Souradip Ghosh, 
+    Drew Kersnar, 
+    Zhen Huang,
+    Simone Campanoni, 
+    Peter Dinda,
+    admin
 ]
 date: "OCT 2020"
 doi: ""
