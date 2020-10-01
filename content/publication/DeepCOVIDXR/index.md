@@ -37,7 +37,7 @@ abstract: "DeepCOVID-XR is an artificial intelligence algorithm for detecting CO
 # DeepCOVID-XR is an artificial intelligence algorithm for detecting COVID-19 on chest X-rays,trainedandtested on the largest published clinical dataset in the COVID-19 era with performance similarto the consensus of experienced, cardiothoracic fellowship-trainedthoracic radiologists. We present DeepCOVID-XR, a deep learning AI algorithm for detecting CXRs suspicious for COVID-19, trained and tested on the largest published clinical dataset from the COVID-19 era to date. 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Deep Learning approach to flag out suspcicious COVID positive cases from Chest X-ray"
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
 tags: [COVID-19, Deep Learning, Chest-XR]

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: CS Undergraduate
+# role: CS Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Senior CS undergraduate in Northwestern
 
 interests:
 - Operating System
