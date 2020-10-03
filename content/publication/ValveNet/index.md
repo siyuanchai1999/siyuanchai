@@ -1,46 +1,35 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DeepCOVID-XR: An Artificial Intelligence Algorithm to Detect COVID-19 on Chest X-rays"
-authors: [Ramsey M Wehbe,
+title: "ValveNet: CNN Approach to Calculate MItral Regurgitation Flow from Doppler Images"
+authors: [admin,
           Jiayue Sheng,
-          Shinjan Dutta,
-          admin,
-          Amil Dravid,
-          Semih Barutcu, 
-          Yunan Wu, 
-          Donald R Cantrell,
-          Nicholas Xiao, 
-          Hatice Savas,
-          Rishi Agrawal,
-          Nishant Parekh,
+          Ramsey M Wehbe,
           Aggelos K Katsaggelos
 ]
 date: "OCT 2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: submitted
+publishDate: 2020.12.31
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Radiological Society of North America"
-publication_short: "RNSA"
+publication: ""
+publication_short: ""
 
-abstract: "DeepCOVID-XR is an artificial intelligence algorithm for detecting COVID-19 on chest X-rays,trainedandtested on the largest published clinical dataset in the COVID-19 era with performance similarto the consensus of experienced, cardiothoracic fellowship-trainedthoracic radiologists. We present DeepCOVID-XR, a deep learning AI algorithm for detecting CXRs suspicious for COVID-19, trained and tested on the largest published clinical dataset from the COVID-19 era to date. "
-
-# DeepCOVID-XR is an artificial intelligence algorithm for detecting COVID-19 on chest X-rays,trainedandtested on the largest published clinical dataset in the COVID-19 era with performance similarto the consensus of experienced, cardiothoracic fellowship-trainedthoracic radiologists. We present DeepCOVID-XR, a deep learning AI algorithm for detecting CXRs suspicious for COVID-19, trained and tested on the largest published clinical dataset from the COVID-19 era to date. 
+abstract: "Mitral regurgitation flow is a critical diagnostic tool cardiological disease. We proposed a Convolutional Nerural Network approach to estimate regurgitation flow to replace manual force of calculation. The work involves denoising the doppler images, extracting speed info from labels, recognizing the aliasing region, and finally estimating the flow."
 
 # Summary. An optional shortened abstract.
-summary: "Deep Learning approach to flag out suspcicious COVID positive cases from Chest X-ray"
+summary: "Designing a Convolutional Neural Network to replace manual force of mitral regurgitation from doppler images"
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
-tags: [COVID-19, Deep Learning, Chest-XR]
+tags: [Deep Learning, Doppler Images]
 categories: [AI in Medical Imaging]
 featured: true
 

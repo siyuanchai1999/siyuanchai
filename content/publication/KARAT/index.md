@@ -1,21 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "KARAT: Kernel Implementation of Compiler- and Runtime-Based Address Translation"
+title: "KARAT: Kernel Implementation of Compiler-and Runtime-Based Address Translation"
 authors: [
     Brian Suchy, 
     Souradip Ghosh, 
+    admin
     Drew Kersnar, 
     Zhen Huang,
     Simone Campanoni, 
     Peter Dinda,
-    admin
 ]
 date: "OCT 2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: submitted
+publishDate: 2020.12.10
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,19 +24,20 @@ publishDate: submitted
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Radiological Society of North America"
-publication_short: "RNSA"
+publication: "USENIX Symposium on Operating Systems Design and Implementation"
+publication_short: "OSDI"
 
-abstract: "DeepCOVID-XR is an artificial intelligence algorithm for detecting COVID-19 on chest X-rays,trainedandtested on the largest published clinical dataset in the COVID-19 era with performance similarto the consensus of experienced, cardiothoracic fellowship-trainedthoracic radiologists. We present DeepCOVID-XR, a deep learning AI algorithm for detecting CXRs suspicious for COVID-19, trained and tested on the largest published clinical dataset from the COVID-19 era to date. "
+abstract: "In modern operating system, virtual and physical address translation is done through paging. We argue that different address space implementations could be more competitive than paging. Within an experimental aero-kernel, Nautilus, we decouple the abstraction of address spaces from its implementation and implement paging as well as a new novel implementation, KARAT, which is an allocation level address space implementation based on Compiler-and Runtime-Based Address Translation (CARAT). Using KARAT, we show that the same functionality of paging is possible while providing new benefits such as finer grain control of memory. KARAT is implemented using a combination of the kernel, compiler, and runtime which operates without needing to make changes to the original code. 
+"
 
 # DeepCOVID-XR is an artificial intelligence algorithm for detecting COVID-19 on chest X-rays,trainedandtested on the largest published clinical dataset in the COVID-19 era with performance similarto the consensus of experienced, cardiothoracic fellowship-trainedthoracic radiologists. We present DeepCOVID-XR, a deep learning AI algorithm for detecting CXRs suspicious for COVID-19, trained and tested on the largest published clinical dataset from the COVID-19 era to date. 
 
 # Summary. An optional shortened abstract.
-summary: "Deep Learning approach to flag out suspcicious COVID positive cases from Chest X-ray"
+summary: "Use compiler and Runtime in kernel to replace paging for virtual address translation"
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
-tags: [COVID-19, Deep Learning, Chest-XR]
-categories: [AI in Medical Imaging]
+tags: [Memory, Compiler, Runtime]
+categories: [Operating System]
 featured: true
 
 # Custom links (optional).

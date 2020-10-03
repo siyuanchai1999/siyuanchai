@@ -20,7 +20,7 @@ date: "OCT 2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: submitted
+publishDate: 2020-11-1
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
