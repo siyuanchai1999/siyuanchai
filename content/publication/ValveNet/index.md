@@ -2,10 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ValveNet: CNN Approach to Calculate MItral Regurgitation Flow from Doppler Images"
-authors: [admin,
-          Jiayue Sheng,
-          Ramsey M Wehbe,
-          Aggelos K Katsaggelos
+authors: [Working with,
+            Jiayue Sheng,
+            Ramsey M Wehbe,
+            Aggelos K Katsaggelos
 ]
 date: "OCT 2020"
 doi: ""
@@ -54,9 +54,9 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+    caption: ""
+    focal_point: ""
+    preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

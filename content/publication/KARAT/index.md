@@ -3,9 +3,9 @@
 
 title: "KARAT: Kernel Implementation of Compiler-and Runtime-Based Address Translation"
 authors: [
+    working With
     Brian Suchy, 
     Souradip Ghosh, 
-    admin
     Drew Kersnar, 
     Zhen Huang,
     Simone Campanoni, 
