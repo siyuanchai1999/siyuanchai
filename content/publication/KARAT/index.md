@@ -3,15 +3,16 @@
 
 title: "KARAT: Kernel Implementation of Compiler-and Runtime-Based Address Translation"
 authors: [
-    working With
+    Working With
     Brian Suchy, 
     Souradip Ghosh, 
     Drew Kersnar, 
     Zhen Huang,
     Simone Campanoni, 
-    Peter Dinda,
+    Peter Dinda
+    (Target to Sumbit in DEC 2020 for OSDI)
 ]
-date: "OCT 2020"
+date: "2020-12-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -2,16 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ValveNet: CNN Approach to Calculate MItral Regurgitation Flow from Doppler Images"
-authors: [Working with,
+authors: [Working with
             Jiayue Sheng,
             Ramsey M Wehbe,
             Aggelos K Katsaggelos
 ]
-date: "OCT 2020"
+date: "2020-12-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020.12.31
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ publication_short: ""
 abstract: "Mitral regurgitation flow is a critical diagnostic tool cardiological disease. We proposed a Convolutional Nerural Network approach to estimate regurgitation flow to replace manual force of calculation. The work involves denoising the doppler images, extracting speed info from labels, recognizing the aliasing region, and finally estimating the flow."
 
 # Summary. An optional shortened abstract.
-summary: "Designing a Convolutional Neural Network to replace manual force of mitral regurgitation from doppler images"
+summary: "Designing a Convolutional Neural Network to replace manual force of mitral regurgitation calculation from doppler images"
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
 tags: [Deep Learning, Doppler Images]

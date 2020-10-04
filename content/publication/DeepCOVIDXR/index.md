@@ -16,7 +16,7 @@ authors: [Ramsey M Wehbe,
           Nishant Parekh,
           Aggelos K Katsaggelos
 ]
-date: "OCT 2020"
+date: "2020-10-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
