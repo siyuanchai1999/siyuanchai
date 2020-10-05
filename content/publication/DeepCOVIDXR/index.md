@@ -15,6 +15,7 @@ authors: [Ramsey M Wehbe,
           Rishi Agrawal,
           Nishant Parekh,
           Aggelos K Katsaggelos
+          (Submitted for RNSA)
 ]
 date: "2020-10-31"
 doi: ""
