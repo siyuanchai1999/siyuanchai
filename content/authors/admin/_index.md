@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:siyuanchai2021@u.northwestern.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -57,11 +57,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/siyuan-sam-chai/
+- icon: cv
+  icon_pack: ai
+  link: files/Siyuan_CV.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/Siyuan_CV.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "siyuanchai2021@u.northwestern.edu"
