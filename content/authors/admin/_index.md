@@ -59,9 +59,9 @@ social:
   link: https://www.linkedin.com/in/siyuan-sam-chai/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "siyuanchai2021@u.northwestern.edu"
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! Here's Siyuan (柴思远)! I am a senior student major in Computer Science and Electrical Engineering at [Northwestern University](https://www.northwestern.edu/). 
+Hi! Here's Siyuan (柴思远)! I am a senior student major in Computer Science and Electrical Engineering at [Northwestern University](https://www.northwestern.edu/). My current research interest focuses on Operating System design, HPC, ML and the intesection of them. 
 
 Right now, I am working closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focus on kernel-level development and operating system designs. I am also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I worked on AI in Medical Imaging there. Before I transferred to Northwestern in 2018, I was in [Washington Univserity in St. Louis](https://wustl.edu/) where I worked with Prof. [Xuan Zhang](https://xzgroup.wustl.edu/people/xuan-silvia-zhang/) on autonomous driving simulation. 
