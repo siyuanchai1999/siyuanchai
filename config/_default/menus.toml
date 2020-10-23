@@ -30,3 +30,8 @@
   name = "CV"
   url = "files/Siyuan_CV.pdf"
   weight = 70
+
+[[main]]
+  name = "个人履历"
+  url = "files/柴思远中文履历.pdf"
+  weight = 70
