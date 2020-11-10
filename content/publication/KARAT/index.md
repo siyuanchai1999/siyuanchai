@@ -10,7 +10,7 @@ authors: [
     Zhen Huang,
     Simone Campanoni, 
     Peter Dinda
-    (Target to Sumbit in DEC 2020 for OSDI)
+    (In Preparation)
 ]
 date: "2020-12-15"
 doi: ""
@@ -25,9 +25,9 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "USENIX Symposium on Operating Systems Design and Implementation"
-publication_short: "OSDI"
-
+# publication: "USENIX Symposium on Operating Systems Design and Implementation"
+# publication_short: "OSDI"
+publication: ""
 abstract: "In modern operating system, virtual and physical address translation is done through paging. We argue that different address space implementations could be more competitive than paging. Within an experimental aero-kernel, Nautilus, we decouple the abstraction of address spaces from its implementation and implement paging as well as a new novel implementation, KARAT, which is an allocation level address space implementation based on Compiler-and Runtime-Based Address Translation (CARAT). Using KARAT, we show that the same functionality of paging is possible while providing new benefits such as finer grain control of memory. KARAT is implemented using a combination of the kernel, compiler, and runtime which operates without needing to make changes to the original code. 
 "
 

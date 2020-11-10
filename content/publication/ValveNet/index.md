@@ -6,7 +6,7 @@ authors: [Working with
             Jiayue Sheng,
             Ramsey M Wehbe,
             Aggelos K Katsaggelos
-            (Working Paper)
+            (In Preparation)
 ]
 date: "2020-12-15"
 doi: ""
