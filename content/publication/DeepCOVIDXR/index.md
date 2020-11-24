@@ -46,11 +46,11 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: "pub site"
+  url: https://pubs.rsna.org/doi/10.1148/radiol.2020203511
+  icon_pack: fab
+  icon: twitter
 
 url_pdf: files/publications/DeepCOVIDXR2020.pdf
 url_code: https://github.com/IVPLatNU/DeepCovidXR
@@ -60,7 +60,6 @@ url_project: https://pubs.rsna.org/doi/10.1148/radiol.2020203511
 url_slides:
 url_source: 
 url_video:
-url_pub : https://pubs.rsna.org/doi/10.1148/radiol.2020203511
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
