@@ -47,16 +47,15 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: "pub site"
+- name: "RSNA artical"
   url: https://pubs.rsna.org/doi/10.1148/radiol.2020203511
   icon_pack: fab
-  icon: twitter
 
 url_pdf: files/publications/DeepCOVIDXR2020.pdf
 url_code: https://github.com/IVPLatNU/DeepCovidXR
 url_dataset:
 url_poster:
-url_project: https://pubs.rsna.org/doi/10.1148/radiol.2020203511
+url_project:
 url_slides:
 url_source: 
 url_video:
