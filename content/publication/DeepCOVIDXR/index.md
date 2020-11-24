@@ -47,7 +47,7 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: "RSNA artical"
+- name: "RSNA Artical"
   url: https://pubs.rsna.org/doi/10.1148/radiol.2020203511
   icon_pack: fab
 
