@@ -16,7 +16,7 @@ authors: [Ramsey M Wehbe,
           Nishant Parekh,
           Aggelos K Katsaggelos
 ]
-date: "2020-10-31"
+date: "2020-11-24"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -56,11 +56,11 @@ url_pdf: files/publications/DeepCOVIDXR2020.pdf
 url_code: https://github.com/IVPLatNU/DeepCovidXR
 url_dataset:
 url_poster:
-url_project:
+url_project: https://pubs.rsna.org/doi/10.1148/radiol.2020203511
 url_slides:
-url_source: https://pubs.rsna.org/doi/10.1148/radiol.2020203511
+url_source: 
 url_video:
-
+url_pub : https://pubs.rsna.org/doi/10.1148/radiol.2020203511
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
