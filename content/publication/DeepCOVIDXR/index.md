@@ -15,19 +15,18 @@ authors: [Ramsey M Wehbe,
           Rishi Agrawal,
           Nishant Parekh,
           Aggelos K Katsaggelos
-          (Accepted by RNSA)
 ]
 date: "2020-10-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-01T00:00:00Z"
+publishDate: "2020-11-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Radiological Society of North America"
@@ -53,13 +52,13 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: files/publications/DeepCOVIDXR2020.pdf
 url_code: https://github.com/IVPLatNU/DeepCovidXR
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://pubs.rsna.org/doi/10.1148/radiol.2020203511
 url_video:
 
 # Featured image
