@@ -16,8 +16,11 @@ weight = 80
 
 +++
 #### CS 336 Design & Analysis of Algorithms @ Northwestern
+_peer mentor_, with Professor [Jason Hartline](https://sites.northwestern.edu/hartline/) (Fall 2019, Spring 2019, Spring 2021)
 _peer mentor_, with Professor [Konstantin Makarychev](https://konstantin.makarychev.net/) (Winter 2020) <br>
-_peer mentor_, with Professor [Jason Hartline](https://sites.northwestern.edu/hartline/) (Fall 2019, Spring 2019)
+
+#### CS 343 Operating Systems @ Northwestern
+_peer mentor_, with Professor [Peter Dinda](http://pdinda.org/) (Winter 2021)
 
 #### ESE 205 Introduction to Engineering Design @ WashU
 _Teaching Assistant_, with Professor [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html) (Spring 2018)
