@@ -9,30 +9,31 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-# role: CS Undergraduate
+# Role/position:
+role: Incoming CS PhD
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
-  url: "https://www.northwestern.edu/"
+- name: UIUC
+  url: "https://illinois.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior CS undergraduate in Northwestern
+bio: Incoming CS Ph.D. at UIUC
 
 interests:
 - Operating System
 - High-Performance Computing
-- Machine Learning
+- Memory
+- Network Verification
 
 education:
   courses:
-  - course: BS in Computer Science, Electrical Engineering
+  - course: M.S. in Computer Science, B.S. in Electrical Engineering
     institution: Northwestern University
-    year: 2021 (Expected)
-  # - course: MEng in Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   year: 2009
+    year: 2021 
+  - course: Ph.D. in Computer Science
+    institution: UIUC
+    year: 2026 
   # - course: BSc in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2008
@@ -44,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:siyuanchai2021@u.northwestern.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:siyuanc3@illinois.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -56,7 +57,7 @@ social:
   link: https://github.com/siyuanchai1999
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/siyuan-sam-chai/
+  link: https://www.linkedin.com/in/siyuan-chai/
 - icon: cv
   icon_pack: ai
   link: files/Siyuan_CV.pdf
@@ -65,7 +66,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "siyuanchai2021@u.northwestern.edu"
+email: "siyuanc3@illinois.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! Here's Siyuan (柴思远)! I am a senior student major in Computer Science and Electrical Engineering at [Northwestern University](https://www.northwestern.edu/). My current research interest focuses on Operating System design, HPC, ML and the intesection of them. 
+Hi! Here's Siyuan (柴思远)! I am an incoming CS Ph.D. at UIUC. I will be working with Prof. [Tianyin Xu](https://tianyin.github.io/) in the Fall. I finished my undergraduate at [Northwestern University](https://www.northwestern.edu/). My current research interest focuses on operating systems, memory and network verification. 
 
-Right now, I am working closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focus on kernel-level development and operating system designs. I am also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I worked on AI in Medical Imaging there. 
+Right now, I am a research intern at Tencent working on network verification. At Northwestern, I am working closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focus on kernel-level development and operating system designs. I am also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I worked on AI in Medical Imaging there. 
 <!-- Before I transferred to Northwestern in 2018, I was in [Washington Univserity in St. Louis](https://wustl.edu/) where I worked with Prof. [Xuan Zhang](https://xzgroup.wustl.edu/people/xuan-silvia-zhang/) on autonomous driving simulation.  -->
