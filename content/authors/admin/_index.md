@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position:
-role: Incoming CS PhD
+role: First Year CS PhD
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,8 @@ bio: Incoming CS Ph.D. at UIUC
 
 interests:
 - Operating System
-- High-Performance Computing
-- Memory
-- Network Verification
+- Memory Management
+- SW/HW Codesign
 
 education:
   courses:
@@ -75,7 +74,10 @@ user_groups:
 - Visitors
 ---
 
-Hi! Here's Siyuan (柴思远)! I am an incoming CS Ph.D. at UIUC. I will be working with Prof. [Tianyin Xu](https://tianyin.github.io/) in the Fall. I finished my undergraduate at [Northwestern University](https://www.northwestern.edu/). My current research interest focuses on operating systems, memory and network verification. 
+Hi! Here's Siyuan (柴思远)! I am a first year Computer Science Ph.D. at UIUC, advised Prof. [Tianyin Xu](https://tianyin.github.io/). 
+I graduated from the BS/MS program at [Northwestern University](https://www.northwestern.edu/) in Spring 2021. 
+I have broad interest in system research, and my current work focuses on operating systems and HW/SW codesgin for memory management.
 
-Right now, I am a research intern at Tencent working on network verification. At Northwestern, I am working closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focus on kernel-level development and operating system designs. I am also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I worked on AI in Medical Imaging there. 
+In Summer 2021, I worked as a research intern at Tencent working on network verification. At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focused on kernel-level development and operating system designs for new schemes of memory management. I tried out compiler research with Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/); we worked to enhance compiler to produce parallel code by utilizing loop commutativity.
+In my earlier undergraduate years, I was also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I built AI/ML tools in medical imaging. 
 <!-- Before I transferred to Northwestern in 2018, I was in [Washington Univserity in St. Louis](https://wustl.edu/) where I worked with Prof. [Xuan Zhang](https://xzgroup.wustl.edu/people/xuan-silvia-zhang/) on autonomous driving simulation.  -->
