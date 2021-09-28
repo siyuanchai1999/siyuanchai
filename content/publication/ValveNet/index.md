@@ -32,7 +32,7 @@ summary: "Designing a Convolutional Neural Network to replace manual force of mi
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
 tags: [Deep Learning, Doppler Images]
 categories: [AI in Medical Imaging]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

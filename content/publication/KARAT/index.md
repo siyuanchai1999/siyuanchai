@@ -1,16 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "KARAT: Kernel Implementation of Compiler-and Runtime-Based Address Translation"
+title: "CARAT CAKE: Replacing Paging via Compiler/Kernel Cooperation"
 authors: [
-    Working With
-    Brian Suchy, 
-    Souradip Ghosh, 
-    Drew Kersnar, 
+    Brian Suchy,
+    Souradip Ghosh,
+    Aaron Nelson,
     Zhen Huang,
-    Simone Campanoni, 
-    Peter Dinda
-    (In Preparation)
+    Drew Kersnar,
+    admin,
+    Michael Cuevas,
+    Alex Bernat,
+    Gaurav Chaudhary,
+    Nikos Hardavellas,
+    Simone Campanoni,
+    Peter Dinda,
 ]
 date: "2020-12-15"
 doi: ""
