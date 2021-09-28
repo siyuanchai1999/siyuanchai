@@ -17,29 +17,31 @@ weight = 80
 +++
 #### _Peer Mentor_ @ Northwestern
 
-Spring 2021, 
+&nbsp;&nbsp;&nbsp;&nbsp; Spring 2021, 
     [CS 336 Design & Analysis of Algorithms](https://canvas.northwestern.edu/courses/99268/) 
     with Prof. [Jason Hartline](https://sites.northwestern.edu/hartline/)
     <br>
-Winter 2021, 
+&nbsp;&nbsp;&nbsp;&nbsp; Winter 2021, 
     [CS 343 Operating Systems](http://pdinda.org/os/) 
     with Prof. [Peter Dinda](http://pdinda.org/)
     <br>
-Winter 2020, 
+&nbsp;&nbsp;&nbsp;&nbsp; Winter 2020, 
     [CS 336 Design & Analysis of Algorithms](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/336.html)
     with Prof. [Konstantin Makarychev](https://konstantin.makarychev.net/) 
     <br>
-Fall 2019,
+&nbsp;&nbsp;&nbsp;&nbsp; Fall 2019,
     [CS 336 Design & Analysis of Algorithms](https://canvas.northwestern.edu/courses/99268/)
     with Prof. [Jason Hartline](https://sites.northwestern.edu/hartline/) 
     <br>
-Spring 2019, 
+&nbsp;&nbsp;&nbsp;&nbsp; Spring 2019, 
     [CS 336 Design & Analysis of Algorithms](https://canvas.northwestern.edu/courses/92321/)
     with Prof. [Jason Hartline](https://sites.northwestern.edu/hartline/) 
     <br>
 
 #### _Teaching Assistant_ @ Washington University in St. Louis
-Spring 2018, [ESE 205 Introduction to Engineering Design](https://classes.engineering.wustl.edu/ese205/core/index.php?title=Main_Page) w/ Prof. [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html)
+&nbsp;&nbsp;&nbsp;&nbsp; Spring 2018,
+    [ESE 205 Introduction to Engineering Design](https://classes.engineering.wustl.edu/ese205/core/index.php?title=Main_Page) 
+    w/ Prof. [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html)
 
 
 <!-- #### CS 343 Operating Systems @ Northwestern
