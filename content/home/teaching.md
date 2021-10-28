@@ -41,7 +41,7 @@ weight = 80
 #### _Teaching Assistant_ @ Washington University in St. Louis
 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2018,
     [ESE 205 Introduction to Engineering Design](https://classes.engineering.wustl.edu/ese205/core/index.php?title=Main_Page) 
-    w/ Prof. [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html)
+    with Prof. [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html)
 
 
 <!-- #### CS 343 Operating Systems @ Northwestern
