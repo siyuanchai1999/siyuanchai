@@ -15,6 +15,12 @@ weight = 80
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
+#### _Teaching Assitant_ @ UIUC
+&nbsp;&nbsp;&nbsp;&nbsp; Spring 2021, 
+    [CS 598 XU](https://cs598txu-uiuc.github.io/spring22/) 
+    with Prof. [Tianyin Xu](https://tianyin.github.io/)
+    <br>
+
 #### _Peer Mentor_ @ Northwestern
 
 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2021, 
@@ -42,15 +48,3 @@ weight = 80
 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2018,
     [ESE 205 Introduction to Engineering Design](https://classes.engineering.wustl.edu/ese205/core/index.php?title=Main_Page) 
     with Prof. [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html)
-
-
-<!-- #### CS 343 Operating Systems @ Northwestern
-_peer mentor_, with Professor [Peter Dinda](http://pdinda.org/) (Winter 2021)
-
-#### CS 336 Design & Analysis of Algorithms @ Northwestern
-_peer mentor_, with Professor [Jason Hartline](https://sites.northwestern.edu/hartline/) (Fall 2019, Spring 2019, Spring 2021) <br>
-_peer mentor_, with Professor [Konstantin Makarychev](https://konstantin.makarychev.net/) (Winter 2020) <br>
-
-#### ESE 205 Introduction to Engineering Design @ WashU
-_Teaching Assistant_, with Professor [James Feher](https://engineering.wustl.edu/faculty/James-Feher.html) (Spring 2018) -->
-
