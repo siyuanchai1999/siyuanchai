@@ -17,7 +17,7 @@ weight = 80
 +++
 #### _Teaching Assitant_ @ UIUC
 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2021, 
-    [CS 598 XU](https://cs598txu-uiuc.github.io/spring22/) 
+    [CS 598 XU: Reliability of Cloud-Scale Systems](https://cs598txu-uiuc.github.io/spring22/) 
     with Prof. [Tianyin Xu](https://tianyin.github.io/)
     <br>
 
