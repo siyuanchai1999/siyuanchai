@@ -32,6 +32,6 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "June 2021"
   date_end = "August 2021"
-  <!-- description = """Taught electronic engineering and researched semiconductor physics.""" -->
+  <!-- description  -->
 
 +++
