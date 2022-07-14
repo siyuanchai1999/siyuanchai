@@ -16,7 +16,8 @@ date_format = "Jan 2006"
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+#   Begin/end multi-line descriptions with 3 quotes `"""`. descprtion = missing
+
 [[experience]]
   title = "Software Engineer Intern"
   company = "Google"
@@ -32,6 +33,5 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "June 2021"
   date_end = "August 2021"
-  <!-- description  -->
-
+  
 +++
