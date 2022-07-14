@@ -40,7 +40,7 @@ We report on incorporating CARAT into a kernel, forming Compiler- And Runtime-ba
 # DeepCOVID-XR is an artificial intelligence algorithm for detecting COVID-19 on chest X-rays,trainedandtested on the largest published clinical dataset in the COVID-19 era with performance similarto the consensus of experienced, cardiothoracic fellowship-trainedthoracic radiologists. We present DeepCOVID-XR, a deep learning AI algorithm for detecting CXRs suspicious for COVID-19, trained and tested on the largest published clinical dataset from the COVID-19 era to date. 
 
 # Summary. An optional shortened abstract.
-summary: "Use compiler and Runtime in kernel to replace paging for virtual address translation"
+summary: "Use compiler and runtime in kernel to replace paging for virtual address translation"
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
 tags: [Memory, Compiler, Runtime]
@@ -55,14 +55,14 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://dl.acm.org/doi/10.1145/3503222.3507771
+url_code: https://github.com/SuchyB/CaratCakeArtifact
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://www.youtube.com/watch?v=nYNFx3vAC2k
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
