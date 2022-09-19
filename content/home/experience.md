@@ -21,17 +21,17 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Software Engineer Intern"
   company = "Google"
-  company_url = ""
+  company_url = "https://about.google/"
   location = "Sunnyvale, CA"
-  date_start = "May 2022"
-  date_end = "August 2022" 
+  date_start = "2022-05-16"
+  date_end = "2022-08-12" 
 
 [[experience]]
   title = "Research Intern"
   company = "Tencent"
-  company_url = ""
+  company_url = "https://www.tencent.com/en-us/"
   location = "Beijing, China"
-  date_start = "June 2021"
-  date_end = "August 2021"
+  date_start = "2021-07-15"
+  date_end = "2021-08-15"
   
 +++
