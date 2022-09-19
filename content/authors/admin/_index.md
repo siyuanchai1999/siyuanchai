@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! Here's Siyuan (柴思远)! I am a first year Computer Science Ph.D. at UIUC, advised Prof. [Tianyin Xu](https://tianyin.github.io/). 
+Hi! Here's Siyuan (柴思远)! I am a first year Computer Science Ph.D. at UIUC advised by Prof. [Tianyin Xu](https://tianyin.github.io/). 
 I graduated from the BS/MS program at [Northwestern University](https://www.northwestern.edu/) in Spring 2021. 
 I have a broad interest in system research, and my current work focuses on operating systems and HW/SW codesgin for memory management. I will join Google as a intern in Summer 2022. See you in the bay area!
 
