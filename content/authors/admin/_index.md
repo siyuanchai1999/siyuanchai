@@ -76,8 +76,9 @@ user_groups:
 
 Hi! Here's Siyuan (柴思远)! I am a first year Computer Science Ph.D. at UIUC advised by Prof. [Tianyin Xu](https://tianyin.github.io/). 
 I graduated from the BS/MS program at [Northwestern University](https://www.northwestern.edu/) in Spring 2021. 
-I have a broad interest in system research, and my current work focuses on operating systems and HW/SW codesgin for memory management. I will join Google as a intern in Summer 2022. See you in the bay area!
+I have a broad interest in system research, and my current work focuses on operating systems and HW/SW codesgin for memory management.
+I am looking for Intern for Summer 2023.
 
-In Summer 2021, I worked as a research intern at Tencent working on network verification. At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focused on kernel-level development and operating system designs for new schemes of memory management. I tried out compiler research with Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/); we worked to enhance compiler to produce parallel code by utilizing loop commutativity.
+At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focused on kernel-level development and operating system designs for new schemes of memory management. I tried out compiler research with Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/); we worked to enhance compiler to produce parallel code by utilizing loop commutativity.
 In my earlier undergraduate years, I was also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I built AI/ML tools in medical imaging. 
 <!-- Before I transferred to Northwestern in 2018, I was in [Washington Univserity in St. Louis](https://wustl.edu/) where I worked with Prof. [Xuan Zhang](https://xzgroup.wustl.edu/people/xuan-silvia-zhang/) on autonomous driving simulation.  -->
