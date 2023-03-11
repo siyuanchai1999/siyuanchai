@@ -80,5 +80,5 @@ I have a broad interest in system research, and my current work focuses on opera
 I am looking for Research Intern positions for Summer 2023.
 
 At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focused on kernel-level development and operating system designs for new schemes of memory management. I tried out compiler research with Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/); we worked to enhance compiler to produce parallel code by utilizing loop commutativity.
-In my earlier undergraduate years, I was also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I built AI/ML tools in medical imaging. 
+In my earlier undergraduate years, I was also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I built AI/ML tools in medical imaging.
 <!-- Before I transferred to Northwestern in 2018, I was in [Washington Univserity in St. Louis](https://wustl.edu/) where I worked with Prof. [Xuan Zhang](https://xzgroup.wustl.edu/people/xuan-silvia-zhang/) on autonomous driving simulation.  -->
