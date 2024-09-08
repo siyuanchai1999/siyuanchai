@@ -31,10 +31,10 @@
   url = "files/Siyuan_CV.pdf"
   weight = 70
 
-[[main]]
-  name = "Resume"
-  url = "files/Siyuan_Resume.pdf"
-  weight = 70
+# [[main]]
+#   name = "Resume"
+#   url = "files/Siyuan_Resume.pdf"
+#   weight = 70
 
 # [[main]]
 #   name = "个人履历"

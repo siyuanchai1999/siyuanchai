@@ -77,8 +77,14 @@ user_groups:
 Hi! Here's Siyuan (柴思远)! I am a forth year Computer Science Ph.D. at UIUC advised by Prof. [Tianyin Xu](https://tianyin.github.io/). 
 I graduated from the BS/MS program at [Northwestern University](https://www.northwestern.edu/) in Spring 2021. 
 I have a broad interest in system research, and my current work focuses on operating systems and HW/SW codesgin for memory management, and LLM systems.
-I am looking for Research Intern positions for Summer 2024.
+**I am looking for research/swe intern positions for summer 2024.**
 
-At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focused on kernel-level development and operating system designs for new schemes of memory management. I tried out compiler research with Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/); we worked to enhance compiler to produce parallel code by utilizing loop commutativity.
-In my earlier undergraduate years, I was also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I built AI/ML tools in medical imaging.
+<!-- At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focused on kernel-level development and operating system designs for new schemes of memory management. I tried out compiler research with Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/); we worked to enhance compiler to produce parallel code by utilizing loop commutativity. -->
+<!-- At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) 
+and Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/) 
+on operating system designs for new schemes of memory management
+and producing parallel code with compiler. I tried out compiler research with Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/); we worked to enhance compiler to produce parallel code by utilizing loop commutativity. -->
+
+At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) on OS designs for new address translation designs.
+Even earlier, I was also part of [Image and Video Processing Lab](https://ivpl.northwestern.edu/) led by Prof. [Aggelos Katsaggelos](https://ivpl.northwestern.edu/people/current-members/aggelos-katsaggelos/). I built AI/ML tools to understand medical imaging.
 <!-- Before I transferred to Northwestern in 2018, I was in [Washington Univserity in St. Louis](https://wustl.edu/) where I worked with Prof. [Xuan Zhang](https://xzgroup.wustl.edu/people/xuan-silvia-zhang/) on autonomous driving simulation.  -->
