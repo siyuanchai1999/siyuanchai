@@ -15,7 +15,9 @@ weight = 120
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-Besides working with computers, I love long-distanced running and cycling. I also enjoy playing soccer, and I am always impressed by skills of [Kevin De Bruyne](https://youtu.be/0XaiAIUisq4). I recently grow intrigued by Peking Opera; check [this](https://youtu.be/wzBDB-u1pRg) out if you want to get a taste of it.
+Besides working with computers, I enjoy a wide variety of sports, including gym workouts, frisbee, soccer, badminton, cycling, and running. 
+I am a Man city fan, and [Kevin De Bruyne](https://youtu.be/0XaiAIUisq4)'s skills always impress me. 
+I recently grow intrigued by Peking Opera; check [this](https://youtu.be/wzBDB-u1pRg) out if you want to get a taste of it.
 
 <!-- 3D globe -->
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5putm9dyb30&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
