@@ -20,6 +20,14 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineer Intern"
+  company = "Meta"
+  company_url = "https://ai.meta.com/"
+  location = "Menlo Park, CA"
+  date_start = "2022-05-16"
+  date_end = "2022-08-9" 
+
+[[experience]]
+  title = "Software Engineer Intern"
   company = "Google"
   company_url = "https://about.google/"
   location = "Sunnyvale, CA"
