@@ -16,6 +16,18 @@ weight = 80
 
 +++
 #### _Teaching Assitant_ @ UIUC
+&nbsp;&nbsp;&nbsp;&nbsp; Fall 2024, 
+    [Operating System Design](https://cs423-uiuc.github.io/fall24/) 
+    with Prof. [Tianyin Xu](https://tianyin.github.io/)
+    <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Fall 2023, 
+    [Operating System Design](https://cs423-uiuc.github.io/fall23/) 
+    with Prof. [Tianyin Xu](https://tianyin.github.io/)
+    <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Fall 2022, 
+    [Operating System Design](https://cs423-uiuc.github.io/fall22/) 
+    with Prof. [Tianyin Xu](https://tianyin.github.io/)
+    <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2021, 
     [CS 598 XU: Reliability of Cloud-Scale Systems](https://cs598txu-uiuc.github.io/spring22/) 
     with Prof. [Tianyin Xu](https://tianyin.github.io/)
