@@ -1,26 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DeepCOVID-XR: An Artificial Intelligence Algorithm to Detect COVID-19 on Chest X-rays"
-authors: [Ramsey M Wehbe,
-          Jiayue Sheng,
-          Shinjan Dutta,
+title: "Direct Memory Translation for Virtualized Clouds"
+authors: [Jiyuan Zhang,
+          Weiwei Jia,
           admin,
-          Amil Dravid,
-          Semih Barutcu, 
-          Yunan Wu, 
-          Donald R Cantrell,
-          Nicholas Xiao, 
-          Hatice Savas,
-          Rishi Agrawal,
-          Nishant Parekh,
-          Aggelos K Katsaggelos
+          Peizhe Liu,
+          Jongyul Kim, 
+          Tianyin Xu
 ]
-date: "2020-11-24"
+date: "2024-04-27"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-24T00:00:00Z"
+publishDate: "2024-04-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,7 +30,7 @@ abstract: "Virtual memory translation has become a key performance bottleneck of
 # DeepCOVID-XR is an artificial intelligence algorithm for detecting COVID-19 on chest X-rays,trainedandtested on the largest published clinical dataset in the COVID-19 era with performance similarto the consensus of experienced, cardiothoracic fellowship-trainedthoracic radiologists. We present DeepCOVID-XR, a deep learning AI algorithm for detecting CXRs suspicious for COVID-19, trained and tested on the largest published clinical dataset from the COVID-19 era to date. 
 
 # Summary. An optional shortened abstract.
-summary: "Directly fecthing last level PTEs to accelerate virtual to physical address translation."
+summary: "Directly fecthing last level PTEs to accelerate virtual to physical address translation"
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
 tags: [Operating systems, memory systems]
