@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company = "Meta"
   company_url = "https://ai.meta.com/"
   location = "Menlo Park, CA"
-  date_start = "2022-05-16"
-  date_end = "2022-08-09" 
+  date_start = "2024-05-16"
+  date_end = "2024-08-09" 
 
 [[experience]]
   title = "Software Engineer Intern"
