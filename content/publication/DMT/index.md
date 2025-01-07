@@ -44,7 +44,7 @@ links:
   url: https://dl.acm.org/doi/10.1145/3620665.3640358
   icon_pack: fab
 
-url_pdf: files/publications/DeepCOVIDXR2020.pdf
+url_pdf: files/publications/dmt.pdf
 url_code: https://github.com/xlab-uiuc/dmt
 url_dataset:
 url_poster:
