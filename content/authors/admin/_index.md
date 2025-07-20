@@ -77,7 +77,7 @@ user_groups:
 Hi! Here's Siyuan (柴思远)! I am a forth year Computer Science Ph.D. at UIUC advised by Prof. [Tianyin Xu](https://tianyin.github.io/). 
 I graduated from the BS/MS program at [Northwestern University](https://www.northwestern.edu/) in Spring 2021. 
 I have a broad interest in system research, and my current work focuses on operating systems,  HW/SW codesgin for memory management, and AI systems.
-**I am looking for research/swe intern positions for summer 2024.**
+<!-- **I am looking for research/swe intern positions for summer 2024.** -->
 
 <!-- At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focused on kernel-level development and operating system designs for new schemes of memory management. I tried out compiler research with Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/); we worked to enhance compiler to produce parallel code by utilizing loop commutativity. -->
 <!-- At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) 
