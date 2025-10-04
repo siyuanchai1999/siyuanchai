@@ -1,0 +1,36 @@
+/* Custom CSS for publication pages */
+
+/* Publication title font size */
+/* .article-title {
+    font-size: 1.1rem !important;
+} */
+
+/* Publication authors font size */
+.article-metadata {
+    font-size: 0.9rem !important;
+    color: #000000 !important;
+}
+
+/* Fix admin (your name) highlight color in author list */
+.article-metadata a {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+/* Highlight your name (admin) in a custom color */
+.article-metadata a[href*="/author/siyuan-chai"] {
+    color: #4e2a84 !important;
+    font-weight: 800 !important;
+}
+
+/* .article-metadata a:hover {
+    color: #4e2a84 !important;
+    text-decoration: underline !important;
+} */
+
+/* Hide summary/abstract section on publication pages */
+.article-style,
+.summary-link {
+    display: none !important;
+}
+
