@@ -13,7 +13,7 @@ authors: [admin,
           Josep Torrellas,
           Tianyin Xu
 ]
-date: "2024-04-27"
+date: "2025-04-27"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ We develop EMT, a pragmatic framework atop Linux to empower different hardware s
 # DeepCOVID-XR is an artificial intelligence algorithm for detecting COVID-19 on chest X-rays,trainedandtested on the largest published clinical dataset in the COVID-19 era with performance similarto the consensus of experienced, cardiothoracic fellowship-trainedthoracic radiologists. We present DeepCOVID-XR, a deep learning AI algorithm for detecting CXRs suspicious for COVID-19, trained and tested on the largest published clinical dataset from the COVID-19 era to date. 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Designed a hardware-neutral, extensible framework with minimal overhead that supports diverse memory translation schemes."
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
 tags: [Operating systems, memory systems]
@@ -46,18 +46,14 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: "OSDI"
-  url: https://www.usenix.org/conference/osdi25
-  icon_pack: fab
-
 url_pdf: files/publications/emt.pdf
 url_code: https://github.com/xlab-uiuc/emt
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://github.com/xlab-uiuc/emt/blob/main/EMT-OSDI.pptx
 url_source: 
-url_video:
+url_video: https://www.usenix.org/conference/osdi25/presentation/chai-siyuan
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
