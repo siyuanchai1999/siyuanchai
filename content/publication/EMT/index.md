@@ -27,7 +27,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Operating Systems Design and Implementation"
-publication_short: "OSDI"
+publication_short: "OSDI 2025"
 
 abstract: "With terabyte-scale memory capacity and memory-intensive workloads, memory translation has become a major performance bottleneck. Many novel hardware schemes are developed to speed up memory translation, but few are experimented with commodity OSes. A main reason is that memory management in major OSes, like Linux, does not have the extensibility to empower emerging hardware schemes.
 

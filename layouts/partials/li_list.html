@@ -13,27 +13,35 @@
     </div>
     {{ end }} -->
 
-    <!-- {{ with .Params.authors }}
+    {{ with .Params.authors }}
     <div class="article-metadata">
-      {{ delimit . ", " | markdownify }}
+      {{- $authors := slice -}}
+      {{- range $index, $author := . -}}
+        {{- if eq $author "admin" -}}
+          {{- $admin_page := site.GetPage "/authors/admin" -}}
+          {{- if $admin_page -}}
+            {{- $authors = $authors | append (printf "<a href=\"%s\" class=\"author-admin\">%s</a>" $admin_page.RelPermalink $admin_page.Title) -}}
+          {{- else -}}
+            {{- $authors = $authors | append $author -}}
+          {{- end -}}
+        {{- else -}}
+          {{- $authors = $authors | append $author -}}
+        {{- end -}}
+      {{- end -}}
+      {{ delimit $authors ", " | safeHTML }}
     </div>
-    {{ end }} -->
-<!-- 
-    <div class="article-style">
-      {{ if .Params.summary }}
-        {{ .Params.summary | markdownify | emojify }}
-      {{ else if .Params.abstract }}
-        {{ .Params.abstract | plainify | truncate 250 }}
-      {{ else if .Summary }}
-        {{ .Summary }}
-      {{ end }}
-    </div> -->
+    {{ end }}
+
+    {{ with .Params.publication_short }}
+    <div class="article-conference">
+      <strong>{{ . }}</strong>
+    </div>
+    {{ end }}
 
     <div class="stream-meta article-metadata">
-      {{ partial "page_metadata" (dict "page" . "is_list" 1) }}
       {{ partial "page_links" (dict "page" . "is_list" 1) }}
     </div>
-
+    
   </div>
   <div class="ml-3">
     {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}

@@ -21,17 +21,30 @@
     font-size: 0.95rem !important;
     font-weight: 700 !important;
     color: #4e2a84 !important;
-    margin-top: 0.3rem !important;
-    margin-bottom: 0.5rem !important;
+    margin-top: 0.2rem !important;
+    margin-bottom: 0.2rem !important;
 }
 
 .article-conference .pub-icon {
     margin-right: 0.3rem;
 }
 
+/* Reduce spacing in list items */
+.stream-item .article-title {
+    margin-bottom: 0.3rem !important;
+}
+
+.stream-item .article-metadata {
+    margin-bottom: 0rem !important;
+}
+
+.stream-item .stream-meta {
+    margin-top: 0rem !important;
+}
+
 /* Publication authors font size */
 .article-metadata {
-    font-size: 0.9rem !important;
+    font-size: 0.95rem !important;
     color: #000000 !important;
 }
 

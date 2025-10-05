@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "M5: Mastering Page Migration and Memory Management for CXL-based Tiered Memory system"
+title: "M5: Mastering Page Migration and Memory Management for CXL-based Tiered Memory Systems"
 authors: [Yan Sun, Jongyul Kim, Zeduo Yu, Jiyuan Zhang, admin, Michael Jaemin Kim, Hwayong Nam, Jaehyun Park, Eojin Na, Yifan Yuan, Ren Wang, Jung Ho Ahn, Tianyin Xu, Nam Sung Kim
 ]
 date: "2025-03-30"
@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Architectural Support for Programming Languages and Operating Systems"
-publication_short: "ASPLOS"
+publication_short: "ASPLOS 2025"
 
 abstract: "CXL has emerged as a promising memory interface that can
 cost-effectively expand the capacity and bandwidth of a memory system, complementing the traditional DDR interface.

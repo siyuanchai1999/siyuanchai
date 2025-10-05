@@ -28,7 +28,7 @@ publishDate: "2020-10-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-publication_short: "ASPLOS"
+publication_short: "ASPLOS 2022"
 
 # Publication name and optional abbreviated publication name.
 # publication: "USENIX Symposium on Operating Systems Design and Implementation"
