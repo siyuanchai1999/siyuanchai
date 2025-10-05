@@ -2,8 +2,32 @@
 
 /* Publication title font size */
 /* .article-title {
-    font-size: 1.1rem !important;
+    font-size: 1.2rem !important;
 } */
+
+/* Style subtitle as conference name */
+/* .page-subtitle {
+    font-size: 1.1rem !important;
+    font-weight: 700 !important;
+    color: #4e2a84 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.5px !important;
+    margin-bottom: 0.8rem !important;
+    display: block !important;
+} */
+
+/* Conference name in list view */
+.article-conference {
+    font-size: 0.95rem !important;
+    font-weight: 700 !important;
+    color: #4e2a84 !important;
+    margin-top: 0.3rem !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.article-conference .pub-icon {
+    margin-right: 0.3rem;
+}
 
 /* Publication authors font size */
 .article-metadata {

@@ -16,7 +16,7 @@ authors: [
     Simone Campanoni,
     Peter Dinda,
 ]
-date: "2021-11-15"
+date: "2022-02-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,6 +27,8 @@ publishDate: "2020-10-01T00:00:00Z"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
+
+publication_short: "ASPLOS"
 
 # Publication name and optional abbreviated publication name.
 # publication: "USENIX Symposium on Operating Systems Design and Implementation"
@@ -44,7 +46,7 @@ summary: "Use compiler and runtime in kernel to replace paging for virtual addre
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
 tags: [Memory, Compiler, Runtime]
-categories: [Operating System]
+categories: [Memory System]
 featured: true
 
 # Custom links (optional).

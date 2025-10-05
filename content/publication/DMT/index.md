@@ -33,8 +33,8 @@ abstract: "Virtual memory translation has become a key performance bottleneck of
 summary: "Directly fecthing last level PTEs to accelerate virtual to physical address translation"
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
-tags: [Operating systems, memory systems]
-categories: [Operating System]
+tags: [Operating systems, Memory system]
+categories: [Memory system]
 featured: true
 
 # Custom links (optional).

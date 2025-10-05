@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "M5: Mastering Page Migration and Memory Management for CXL-based Tiered Memory Systems"
+title: "M5: Mastering Page Migration and Memory Management for CXL-based Tiered Memory system"
 authors: [Yan Sun, Jongyul Kim, Zeduo Yu, Jiyuan Zhang, admin, Michael Jaemin Kim, Hwayong Nam, Jaehyun Park, Eojin Na, Yifan Yuan, Ren Wang, Jung Ho Ahn, Tianyin Xu, Nam Sung Kim
 ]
 date: "2025-03-30"
@@ -24,7 +24,7 @@ abstract: "CXL has emerged as a promising memory interface that can
 cost-effectively expand the capacity and bandwidth of a memory system, complementing the traditional DDR interface.
 However, CXL DRAM presents 2–3× longer access latency
 than DDR DRAM, forming a tiered-memory system that demands an effective and efficient page-migration solution. Although many page-migration solutions have been proposed
-for past tiered-memory systems, they have achieved limited
+for past tiered-Memory system, they have achieved limited
 success. To tackle the challenge of managing tiered-memory
 systems, this work first presents a CXL-driven profiling solution to precisely and transparently count the number of
 accesses to every 4KB page and 64B word in CXL DRAM.
@@ -49,8 +49,8 @@ page-migration solution, even with a simple policy.
 summary: "Developed a CXL-driven hot-page and hot-word profiling solution"
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
-tags: [Operating systems, memory systems]
-categories: [Operating System]
+tags: [Operating systems, Memory system]
+categories: [Memory system]
 featured: true
 
 # Custom links (optional).

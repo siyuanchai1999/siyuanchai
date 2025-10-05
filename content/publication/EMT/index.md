@@ -39,7 +39,7 @@ We develop EMT, a pragmatic framework atop Linux to empower different hardware s
 summary: "Designed a hardware-neutral, extensible framework with minimal overhead that supports diverse memory translation schemes"
 
 # DeepCOVID-XR is an deep learning algorithm for detecting COVID-19 on chest X-rays,trained and tested on the largest published clinical dataset in the COVID-19 era with performance similar to the consensus of experienced, cardiothoracic fellowship-trained thoracic radiologists.
-tags: [Operating systems, memory systems]
+tags: [Operating systems, Memory system]
 categories: [Operating System]
 featured: true
 
