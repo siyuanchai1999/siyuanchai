@@ -24,7 +24,7 @@ interests:
 - Operating Systems
 - AI Systems
 - Memory Management
-- SW/HW Codesign
+- SW/HW Co-design
 
 education:
   courses:
