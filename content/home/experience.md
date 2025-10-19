@@ -19,8 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`. descprtion = missing
 
 [[experience]]
+  title = "System Software Engineer Intern"
+  company = "CUDA Unified Virtual Memory, NVIDIA"
+  company_url = "https://www.nvidia.com/en-us/"
+  location = "Santa Clara, CA"
+  date_start = "2025-05-19"
+
+[[experience]]
   title = "Software Engineer Intern"
-  company = "Meta"
+  company = "AI System Co-Design, Meta"
   company_url = "https://ai.meta.com/"
   location = "Menlo Park, CA"
   date_start = "2024-05-16"
@@ -28,7 +35,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineer Intern"
-  company = "Google"
+  company = "Cloud, Google"
   company_url = "https://about.google/"
   location = "Sunnyvale, CA"
   date_start = "2022-05-16"
@@ -36,7 +43,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Tencent"
+  company = "Backbone Network, Tencent"
   company_url = "https://www.tencent.com/en-us/"
   location = "Beijing, China"
   date_start = "2021-07-15"
