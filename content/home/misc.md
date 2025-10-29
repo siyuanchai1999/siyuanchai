@@ -17,10 +17,13 @@ weight = 120
 +++
 Besides working with computers, I enjoy a wide variety of sports, including gym workouts, frisbee, soccer, badminton, cycling, and running. 
 I am a Man city fan, and [Kevin De Bruyne](https://youtu.be/0XaiAIUisq4)'s skills always impress me. 
+(Still a city fan after KDB left).
 I recently grow intrigued by Peking Opera; check [this](https://youtu.be/wzBDB-u1pRg) out if you want to get a taste of it.
 
 <!-- 3D globe -->
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5putm9dyb30&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=5WNQdcFn1Y7Umk6iwZnL4_EOrXQy-bPbY1ahscGRsyc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script><!-- <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=EaV2fwwfCsvPMhvOx-SKY7yAwO8ovSYkQvvCpYjCH10"></script> -->
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5putm9dyb30&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
 
 
 
