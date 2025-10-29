@@ -9,3 +9,25 @@ a {
 // .powered-by {
 //     opacity: 0;
 // }
+
+/* Experience widget company logos */
+.company-logo {
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.company-logo:hover {
+  transform: scale(1.05);
+}
+
+/* Experience widget layout improvements */
+.experience .card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: box-shadow 0.2s ease;
+}
+
+.experience .card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}

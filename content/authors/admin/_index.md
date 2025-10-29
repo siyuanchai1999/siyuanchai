@@ -78,7 +78,7 @@ user_groups:
 ---
 
 Hi! Here's Siyuan (柴思远)! I am a fifth year Computer Science Ph.D. student at UIUC advised by Prof. [Tianyin Xu](https://tianyin.github.io/). 
-I have a broad interest in system research, and my current work focuses on operating systems,  HW/SW codesgin for memory management, and AI systems.
+I have a broad interest in system research, and my current work focuses on operating systems, AI systems and memory systems.
 
 Recently, I am actively looking for full time industry jobs related to memory and AI systems. Shoot me an email if you there could be a fit.
 <!-- **I am looking for research/swe intern positions for summer 2024.** -->
