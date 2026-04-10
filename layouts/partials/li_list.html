@@ -16,16 +16,23 @@
     {{ with .Params.authors }}
     <div class="article-metadata">
       {{- $authors := slice -}}
+      {{- $page := $ -}}
       {{- range $index, $author := . -}}
+        {{- $suffix := "" -}}
+        {{- if isset $page.Params "author_notes" -}}
+          {{- with (index $page.Params.author_notes $index) -}}
+            {{- $suffix = "*" -}}
+          {{- end -}}
+        {{- end -}}
         {{- if eq $author "admin" -}}
           {{- $admin_page := site.GetPage "/authors/admin" -}}
           {{- if $admin_page -}}
-            {{- $authors = $authors | append (printf "<a href=\"%s\" class=\"author-admin\">%s</a>" $admin_page.RelPermalink $admin_page.Title) -}}
+            {{- $authors = $authors | append (printf "<a href=\"%s\" class=\"author-admin\">%s</a>%s" $admin_page.RelPermalink $admin_page.Title $suffix) -}}
           {{- else -}}
-            {{- $authors = $authors | append $author -}}
+            {{- $authors = $authors | append (printf "%s%s" $author $suffix) -}}
           {{- end -}}
         {{- else -}}
-          {{- $authors = $authors | append $author -}}
+          {{- $authors = $authors | append (printf "%s%s" $author $suffix) -}}
         {{- end -}}
       {{- end -}}
       {{ delimit $authors ", " | safeHTML }}

@@ -3,7 +3,7 @@
 
 title: "EMT: An OS Framework for New Memory Translation Architectures"
 authors: [admin,
-          Jiyuan Zhang,
+          Jiyuan Zhang^,
           Jongyul Kim,
           Alan Wang,
           Fan Chung,
@@ -11,7 +11,7 @@ authors: [admin,
           Weiwei Jia,
           Dimitrios Skarlatos,
           Josep Torrellas,
-          Tianyin Xu
+          Tianyin Xu (^ denotes co-lead of the project)
 ]
 date: "2025-04-27"
 doi: ""
