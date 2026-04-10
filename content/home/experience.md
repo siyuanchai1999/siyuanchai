@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.nvidia.com/en-us/"
   location = "Santa Clara, CA"
   date_start = "2025-05-19"
+  logo = "/files/icon-pack/nvidia.png"
 
 [[experience]]
   title = "Software Engineer Intern"
@@ -31,7 +32,8 @@ date_format = "Jan 2006"
   company_url = "https://ai.meta.com/"
   location = "Menlo Park, CA"
   date_start = "2024-05-16"
-  date_end = "2024-08-09" 
+  date_end = "2024-08-09"
+  logo = "/files/icon-pack/Meta.jpg"
 
 [[experience]]
   title = "Software Engineer Intern"
@@ -39,7 +41,8 @@ date_format = "Jan 2006"
   company_url = "https://about.google/"
   location = "Sunnyvale, CA"
   date_start = "2022-05-16"
-  date_end = "2022-08-12" 
+  date_end = "2022-08-12"
+  logo = "/files/icon-pack/google.png"
 
 [[experience]]
   title = "Research Intern"
@@ -48,5 +51,6 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2021-07-15"
   date_end = "2021-08-15"
+  logo = "/files/icon-pack/tencent.svg"
   
 +++
