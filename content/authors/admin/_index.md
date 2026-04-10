@@ -79,8 +79,10 @@ user_groups:
 
 Hi! Here's Siyuan (柴思远)! I am a fifth year Computer Science Ph.D. student at UIUC advised by Prof. [Tianyin Xu](https://tianyin.github.io/). 
 I have a broad interest in system research, and my current work focuses on operating systems, AI systems and memory systems.
+Most recently, I am working on IOMMU virtualization: 
+making strict IO memory protection feasible in virtualized environments without sacrificing performance.
 
-Recently, I am actively looking for full time industry jobs related to memory and AI systems. Shoot me an email if you there could be a fit.
+<!-- I am actively looking for full time industry jobs related to memory and AI systems. Shoot me an email if you there could be a fit. -->
 <!-- **I am looking for research/swe intern positions for summer 2024.** -->
 
 <!-- At Northwestern, I worked closely with Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://plab.cs.northwestern.edu/). We focused on kernel-level development and operating system designs for new schemes of memory management. I tried out compiler research with Prof.[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/); we worked to enhance compiler to produce parallel code by utilizing loop commutativity. -->
